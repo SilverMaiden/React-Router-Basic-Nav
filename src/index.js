@@ -6,6 +6,7 @@ import App from './App';
 import 'bootstrap/dist/css/bootstrap.css';
 
 ReactDOM.render(
+    //Adding route
     <Router>
         <App />
     </Router>,
